@@ -1,1 +1,3 @@
-lucky-word: "Serendipity"
+wordConfig:
+  lucky-word: "Serendipity"
+  preamble: "The lucky word is"
